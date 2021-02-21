@@ -1,3 +1,9 @@
-# termsock
+# in
 
-This is a simple example of sockets, using winsock but to be cross-platform.
+in.cc identifies the left shift key from keyboard input using the normal xinput.h routines.
+
+To build, run ./in.cc. Requires libxi-dev.
+
+To run, run ./in.
+
+SPONSOR THIS IF YOU FOUND IT USEFUL
